@@ -34,7 +34,7 @@ Esto es una modificación del aspecto visual de LibreWolf, para aquellos que des
 - Una vez dentro, en la barra escribe`toolkit.legacyUserProfileCustomizations.stylesheets` y pon el valor en `true`.
 - Luego escribe <a href="about:support">"about:support"</a> en la barra de búsqueda y busca **Abrir Directorio** y dirígete a tu **Directorio Personal**.
 - Una vez dentro, busca una carpeta llamada `chrome`. Si no la encuentras, entonces creála.
-- Dentro de la carpeta `chrome`, descarga los estilos **.css** del repositorio de ArcFox <a href="https://github.com/betterbrowser/arcfox/releases/latest/download/userChrome.css"> El archivo `userChrome.css` en su última versión</a>.
+- Dentro de la carpeta `chrome`, descarga los estilos **.css** del repositorio de ArcFox, el archivo se llama `userChrome.css` <a href="https://github.com/betterbrowser/arcfox/releases/latest/download/userChrome.css"></a>
 - Como último paso, reinicia LibreWolf (cierra y vuelve a abrirlo).
 
 # License
