@@ -15,7 +15,7 @@ LibreWolf was never ugly, it just needed some customization :)
   </p>
 </p>
 
-<img src="[public/media/screenshot.pn](https://github.com/Yisusdev2005/LibreWolf-Customization/blob/main/Firefox.png)" width="100%"/>
+<img src="https://github.com/Yisusdev2005/LibreWolf-Customization/blob/main/Firefox.png" width="100%"/>
 
 > Arcfox no me pertenece, todos los derechos a sus respectivos autores.
 
@@ -34,20 +34,8 @@ Esto es una modificación del aspecto visual de LibreWolf, para aquellos que des
 - Una vez dentro, en la barra escribe`toolkit.legacyUserProfileCustomizations.stylesheets` y pon el valor en `true`.
 - Luego escribe <a href="about:support">"about:support"</a> en la barra de búsqueda y busca **Abrir Directorio** y dirígete a tu **Directorio Personal**.
 - Una vez dentro, busca una carpeta llamada `chrome`. Si no la encuentras, entonces creála.
-- Dentro de la carpeta `chrome`, drop <a href="https://github.com/betterbrowser/arcfox/releases/latest/download/userChrome.css">the `userChrome.css` file of the latest release</a>.
-- Re-open Firefox.
-
-# Removing ArcFox
-- Remove `(Firefox Profile)/chrome/userChrome.css`.
-- Remove the 'ArcFox' extension from Firefox.
-- Re-open Firefox and it should be gone.
-- Be happy with your now boring and unproductive Firefox!
-
-# Support
-
-If you have any problems you can open a issue or contact our team on our [Discord](https://discord.gg/jDASpgt68t).
-
-And if you want to support BetterBrowser financially you can donate to our [OpenCollective](https://opencollective.com/betterbrowser).
+- Dentro de la carpeta `chrome`, descarga los estilos **.css** del repositorio de ArcFox <a href="https://github.com/betterbrowser/arcfox/releases/latest/download/userChrome.css"> El archivo `userChrome.css` en su última versión</a>.
+- Como último paso, reinicia LibreWolf (cierra y vuelve a abrirlo).
 
 # License
 
