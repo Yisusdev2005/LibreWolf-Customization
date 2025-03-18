@@ -1,10 +1,14 @@
 # LibreWolf-Customization
 LibreWolf was never ugly, it just needed some customization :)
+
+#
+
 <p align="center">
   <a href="#">
   </a>
+  
   <p align="center">
-  Haz a LibreWolf más hermoso
+  **Haz a LibreWolf más hermoso**
     <br />
     <a href="https://addons.mozilla.org/es-MX/firefox/addon/arcfox/"><strong>Install »</strong></a>
     <br />
@@ -30,8 +34,15 @@ Esto es una modificación del aspecto visual de LibreWolf, para aquellos que des
 - Una vez dentro, en la barra escribe`toolkit.legacyUserProfileCustomizations.stylesheets` y pon el valor en `true`.
 - Luego escribe <a href="about:support">"about:support"</a> en la barra de búsqueda y busca **Abrir Directorio** y dirígete a tu **Directorio Personal**.
 - Una vez dentro, busca una carpeta llamada `chrome`. Si no la encuentras, entonces creála.
-- Dentro de la carpeta `chrome`, descarga los estilos **.css** del repositorio de ArcFox, el archivo se llama `userChrome.css` <a href="https://github.com/betterbrowser/arcfox/releases/latest/download/userChrome.css"></a>
+- Dentro de la carpeta `chrome`, descarga los estilos <a href="https://github.com/betterbrowser/arcfox/releases/latest/download/userChrome.css">`userChrome.css`</a> del repositorio de ArcFox.
 - Como último paso, reinicia LibreWolf (cierra y vuelve a abrirlo).
+
+# Página de Inicio (HomePage)
+
+Bueno, si os les parece también pueden descargar mi página de inicio, el cual está inpirado por <a href="https://github.com/PrettyCoffee/yet-another-generic-startpage">**PrettyCoffee**</a>
+
+**Pasos para agregar este estilo:**
+- Instala la carpeta desde <a href="https://github.com/betterbrowser/arcfox/releases/latest/download/userChrome.css">`Releases`</a>
 
 # License
 
