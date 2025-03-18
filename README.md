@@ -23,7 +23,7 @@ LibreWolf was never ugly, it just needed some customization :)
 
 Esto es una modificación del aspecto visual de LibreWolf, para aquellos que desean un look más estético y llamativo a su navegador.
 
-> Espero que mi configuración sea de tu agrado.
+> Funciona para la versión de Linux y Windows.
 
 
 # Instalación
