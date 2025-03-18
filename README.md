@@ -42,7 +42,10 @@ Esto es una modificación del aspecto visual de LibreWolf, para aquellos que des
 Bueno, si os les parece también pueden descargar mi página de inicio, el cual está inpirado por <a href="https://github.com/PrettyCoffee/yet-another-generic-startpage">**PrettyCoffee**</a>
 
 **Pasos para agregar este estilo:**
-- Instala la carpeta desde <a href="https://github.com/betterbrowser/arcfox/releases/latest/download/userChrome.css">`Releases`</a>
+- Instala la carpeta desde <a href="[https://github.com/betterbrowser/arcfox/releases/latest/download/userChrome.css](https://github.com/Yisusdev2005/LibreWolf-Customization/releases/tag/Styles)">`Releases`</a>
+- Ya instalado ve a **ajustes** y luego a **Inicio**
+- Ya estando ahí verás esto:
+<img src="https://github.com/Yisusdev2005/LibreWolf-Customization/blob/main/Firefox.png" width="100%"/>
 
 # License
 
