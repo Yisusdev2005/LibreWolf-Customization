@@ -4,11 +4,7 @@ LibreWolf was never ugly, it just needed some customization :)
   <a href="#">
   </a>
   <p align="center">
-   <img width="150" height="150" src="public/media/icon.png" alt="ArcFox Icon">
-  </p>
-  <h1 align="center"><b>ArcFox</b></h1>
-  <p align="center">
-  Make firefox flow like arc
+  Haz a LibreWolf más hermoso
     <br />
     <a href="https://addons.mozilla.org/es-MX/firefox/addon/arcfox/"><strong>Install »</strong></a>
     <br />
