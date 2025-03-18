@@ -45,7 +45,11 @@ Bueno, si os les parece también pueden descargar mi página de inicio, el cual 
 - Instala la carpeta desde <a href="[https://github.com/betterbrowser/arcfox/releases/latest/download/userChrome.css](https://github.com/Yisusdev2005/LibreWolf-Customization/releases/tag/Styles)">`Releases`</a>
 - Ya instalado ve a **ajustes** y luego a **Inicio**
 - Ya estando ahí verás esto:
-<img src="https://github.com/Yisusdev2005/LibreWolf-Customization/blob/main/Firefox.png" width="100%"/>
+![Image text](https://github.com/Yisusdev2005/LibreWolf-Customization/blob/main/1.png)
+- Ahora, una vez descargado el archivo y descomprimido, localiza la ubicación del mismo y en la casilla de **Inicio de Firefox (predeterminado)** dale click y selecciona **Personalizar URLs...** y coloca la ruta del **.html**
+- Y listo, ya tendrás tu LibreWolf personalizado a mi estilo
+
+**Espero os guste ;)**
 
 # License
 
