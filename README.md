@@ -10,7 +10,7 @@ LibreWolf was never ugly, it just needed some customization :)
   <p align="center">
   Make firefox flow like arc
     <br />
-    <a href="https://github.com/betterbrowser/arcfox/releases"><strong>Install »</strong></a>
+    <a href="https://github.com/Yisusdev2005/LibreWolf-Customization/blob/main/Firefox.png"><strong>Install »</strong></a>
     <br />
   </p>
 </p>
